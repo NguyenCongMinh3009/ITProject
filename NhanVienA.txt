@@ -1,1 +1,3 @@
 Noi dung nhan vien A
+
+Noi dung tren nhanh A
