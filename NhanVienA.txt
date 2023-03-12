@@ -9,3 +9,5 @@ Dung Git Gui here
 Thay doi noi dung file
 
 Sua noi dung 
+
+Noi dung nhanh C duoc them vao
