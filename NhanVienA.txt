@@ -6,4 +6,4 @@ Toi day ket thuc buoi hoc
 
 Dung Git Gui here
 
-Them noi dung moi 
+Thay doi noi dung file
