@@ -11,3 +11,6 @@ Thay doi noi dung file
 Sua noi dung 
 
 Noi dung nhanh C duoc them vao
+
+Noi dung them moi ben nhanh main
+Noi dung moi o nhanh main dong thu 2
