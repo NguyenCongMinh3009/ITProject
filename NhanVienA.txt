@@ -3,3 +3,5 @@ Noi dung nhan vien A
 Noi dung tren nhanh A
 
 Toi day ket thuc buoi hoc
+
+Dung Git Gui here
